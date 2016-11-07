@@ -1,2 +1,2 @@
-# spring-demo-one
-spring-demo-one
+# hibernate-demo
+hibernate-demo
